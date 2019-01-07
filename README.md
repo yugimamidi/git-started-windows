@@ -9,6 +9,7 @@
 
 - [Windows Setup for Developers](https://github.com/denisecase/windows-setup)
 - [Windows File Management](https://github.com/denisecase/windows-file-management)
+- [Get Setup With Chocolatey](https://github.com/denisecase/get-setup-with-chocolatey)
 
 ## Git
 
@@ -38,7 +39,12 @@ If you're a student, check both sites for the most recent offers.
 
 ## Install Git for Windows
 
-Install Git for Windows from <https://git-scm.com/download/win>. The 64-bit version is recommended for most users.
+Install Git for Windows if you haven't already. 
+
+Either:
+
+- Install with Chocolatey - see [Get Setup With Chocolatey](https://github.com/denisecase/get-setup-with-chocolatey)
+- OR Install Git for Windows from <https://git-scm.com/download/win>. The 64-bit version is recommended for most users.
 
 ## Set up Git
 
