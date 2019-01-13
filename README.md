@@ -39,9 +39,7 @@ If you're a student, check both sites for the most recent offers.
 
 ## Install Git for Windows
 
-Install Git for Windows if you haven't already. 
-
-Either:
+Install Git for Windows if you haven't already. Either:
 
 - Install with Chocolatey - see [Get Setup With Chocolatey](https://github.com/denisecase/get-setup-with-chocolatey)
 - OR Install Git for Windows from <https://git-scm.com/download/win>. The 64-bit version is recommended for most users.
@@ -52,9 +50,7 @@ Configure Git with your full name and email address.
 
 ## Install TortoiseGit
 
-Install TortoiseGit if you haven't already. 
-
-Either:
+Install TortoiseGit if you haven't already. Either:
 
 - Install with Chocolatey - see [Get Setup With Chocolatey](https://github.com/denisecase/get-setup-with-chocolatey)
 - OR Install TortoiseGit from <https://tortoisegit.org/>. TortoiseGit integrates with Windows File Explorer, making it fast and easy to execute most of the typical Git commands used every day.
