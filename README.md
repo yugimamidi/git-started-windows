@@ -36,6 +36,7 @@ If you're a student, check both sites for the most recent offers.
 
 - [GitHub Education](https://education.github.com/)
 - [BitBucket Education](https://bitbucket.org/product/education)
+- [Microsoft Imagine](https://www.microsoft.com/en-cy/imagine)
 
 ## Install Git for Windows
 
