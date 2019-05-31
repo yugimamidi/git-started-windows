@@ -9,7 +9,7 @@
 
 - [Windows Setup for Developers](https://github.com/denisecase/windows-setup)
 - [Windows File Management](https://github.com/denisecase/windows-file-management)
-- [Get Setup With Chocolatey](https://github.com/denisecase/get-setup-with-chocolatey)
+- [Basic Tools for Web Development](https://github.com/denisecase/basic-tools-for-webdev)
 
 ## Git
 
@@ -40,15 +40,15 @@ If you're a student, check both sites for the most recent offers.
 
 ## Install Git for Windows
 
-Install Git for Windows from <https://git-scm.com/download/win>. The 64-bit version is recommended for most users.
+Work through [Basic Tools for Web Development](https://github.com/denisecase/basic-tools-for-webdev). Or install Git for Windows from <https://git-scm.com/download/win>. The 64-bit version is recommended for most users.
 
 ## Set up Git
 
-Follow all installation and setup instructions. You'll have to configure Git with your full name and email address.
+It is critical that you follow all setup instructions. You must configure Git with your full name and email address.
 
 ## Install TortoiseGit
 
-Install TortoiseGit from <https://tortoisegit.org/>. TortoiseGit integrates with Windows File Explorer, making it fast and easy to execute most of the typical Git commands used every day.
+If you haven't already, install TortoiseGit from <https://tortoisegit.org/>. TortoiseGit integrates with Windows File Explorer, making it fast and easy to execute most of the typical Git commands used every day.
 
 ## Transferring Files
 
@@ -117,3 +117,4 @@ Make sure your computer is set up for developers and that you can see hidden fil
 ## References
 
 1. [Windows Setup for Developers](https://github.com/denisecase/windows-setup)
+2. [Basic Tools for Web Development](https://github.com/denisecase/basic-tools-for-webdev)
