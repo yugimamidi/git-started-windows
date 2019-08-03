@@ -114,7 +114,8 @@ Make sure your computer is set up for developers and that you can see hidden fil
 - Private key
 - Public key
 
-## References
+## Next Steps
 
-1. [Windows Setup for Developers](https://github.com/denisecase/windows-setup)
-2. [Basic Tools for Web Development](https://github.com/denisecase/basic-tools-for-webdev)
+Upgrade git automagically
+
+- [Automate daily upgrades](https://github.com/denisecase/windows-daily-software-upgrade)
