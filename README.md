@@ -30,13 +30,10 @@ There are many places to store your content while you collaborate. We will set u
 
 Both are widely used and it can be helpful to have accounts in both places. As you create new repositories for yourself or a team, you can decide which one is a better choice for each project.
 
-## Education Discounts & Offers
-
-If you're a student, check both sites for the most recent offers.
+If you're a student, check both sites for the most recent education options.
 
 - [GitHub Education](https://education.github.com/)
 - [BitBucket Education](https://bitbucket.org/product/education)
-- [Microsoft Imagine](https://www.microsoft.com/en-cy/imagine)
 
 ## Install Git for Windows
 
