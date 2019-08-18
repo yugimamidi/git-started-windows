@@ -119,3 +119,7 @@ Make sure your computer is set up for developers and that you can see hidden fil
 Upgrade git automagically
 
 - [Automate daily upgrades](https://github.com/denisecase/windows-daily-software-upgrade)
+
+## See Also
+
+- [Setting Up for Professional Software Development](https://github.com/denisecase/pro-dev-list)
