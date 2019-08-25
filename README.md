@@ -58,9 +58,9 @@ There are two methods for transferring files from our computer to the cloud: HTT
 
 To enable the SSH option, we need to be able to generate a pair of keys. One public key that is kept in our account in the cloud and a private key that is kept on our machine.
 
-Install Putty from <https://www.ssh.com/ssh/putty/download>.
+Install PuTTY from <https://www.ssh.com/ssh/putty/download>.
 
-Putty includes PuttyGen, a tool for creating SSH key pairs.
+PuTTY includes PuTTYgen, a utility program that helps create SSH key pairs.
 
 ## SSH Public-Private Key Pairs
 
@@ -70,7 +70,7 @@ When I work, I use:
 - Different computers
 - Different cloud storage providers
 
-I create a public-private key pair for every email-computer-cloud combination. For each combination, I'll create a .ppk (private key) and a .pub (public key) pair.
+I create a public-private key pair for every email-computer-cloud combination. For each combination, I'll create a .ppk (private key) and a .pub (public key) pair. The .pub keys are optional - if you use PuTTYgen to open your .ppk, it will show you the public key. You'll copy and paste the public key into your cloud account / settings / ssh keys.
 
 For example, with a desktop and a laptop, I might have keys named:
 
@@ -91,7 +91,7 @@ This naming convention keeps keys organized.
 
 ## Create SSH Key Pairs & Add Public Keys To Cloud Accounts
 
-Use Windows start to run PuttyGen. Follow the instructions below to create private keys that will be stored in your .ssh folder and corresponding public keys to be added to your BitBucket or GitHub accounts.
+Use Windows start to run PuTTYgen. Follow the instructions from the link below to create private keys that will be stored in your .ssh folder and corresponding public keys to be added to your BitBucket or GitHub accounts.
 
 - <https://github.com/RedWingedJerbear/GitSSHTuttorial>
 
@@ -110,6 +110,7 @@ Make sure your computer is set up for developers and that you can see hidden fil
 - SSH key pairs
 - Private key
 - Public key
+- PuTTyGen - a graphical tool to create SSH keys
 
 ## Trouble Shooting Tips
 
