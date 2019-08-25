@@ -111,6 +111,11 @@ Make sure your computer is set up for developers and that you can see hidden fil
 - Private key
 - Public key
 
+## Trouble Shooting Tips
+
+- [Git Clone not working with private repo](https://github.community/t5/How-to-use-Git-and-GitHub/git-clone-is-not-working-for-a-private-repo/td-p/2513)
+- [Configuring multiple email accounts](https://simonbasle.github.io/2017/10/git-identities-and-ssh/)
+
 ## Next Steps
 
 Upgrade git automagically
